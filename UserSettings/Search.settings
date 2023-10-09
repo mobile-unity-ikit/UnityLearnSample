@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 trackSelection = true
 refreshSearchWindowsInPlayMode = false
 fetchPreview = true
@@ -77,3 +78,6 @@ findProviderIndexHelper = true
 =======
 {}
 >>>>>>> a412a7d678de56ab1df35e087fdf54c80cd16401
+=======
+{}
+>>>>>>> omel_branch
