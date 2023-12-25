@@ -68,6 +68,7 @@ public class InteractiveRaycast : MonoBehaviour
             else
             {
                 savedBox.AddNext(hitBox);
+                savedBox = null;
             }
         }
     }

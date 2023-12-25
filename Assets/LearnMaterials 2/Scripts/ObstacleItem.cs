@@ -17,6 +17,8 @@ public class ObstacleItem : MonoBehaviour
     private void Start()
     {
         renderer = GetComponent<Renderer>();
+        startColor = renderer.material.color;
+        endColor = Color.red;
     }
     
     public void GetDamage(float value)
